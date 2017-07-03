@@ -20,7 +20,7 @@ def diskusage():
 def main():
 	tris_shownetwork()
 	singing()
-	math()	
+		
 	diskusage()
 
 #main()
