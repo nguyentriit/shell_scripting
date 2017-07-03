@@ -23,15 +23,6 @@ def main():
 		
 	diskusage()
 
-#main()
 
 
 
-aaaaif __name__ == "__main__":
-	main()	
-
-
-
-
-
-Lahawk just added this line
